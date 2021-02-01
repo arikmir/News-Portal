@@ -1,0 +1,20 @@
+.map {
+  height: 210px;
+  width: 400px;
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+
+h1 {
+  color: brown;
+  font: larger;
+  font-family: "Kite One", sans-serif;
+  text-align: center;
+}
+h3 {
+  color: darkred;
+  font-family: "Roboto Mono", monospace;
+}
+body {
+  background-color: whitesmoke;
+}
