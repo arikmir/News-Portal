@@ -4,6 +4,8 @@ A News Portal Application using IP-API, News-API and Mapbox
 **Project by ARIK INTENAM MIR**
 - **Codes are in HTML, JavaScript, and CSS used for Styling**. 
 - **Report Included**
+- **The Server-side and the client-side scripts can be found inside the News Portal folder**
+
 
 
  **Project Summary**
